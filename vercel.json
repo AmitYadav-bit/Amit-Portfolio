@@ -9,7 +9,7 @@
   },
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/(?!.*\\.(?:pdf|png|jpg|jpeg|gif|svg|ico|css|js|woff|woff2|ttf)$).*",
       "destination": "/index.html"
     }
   ]
