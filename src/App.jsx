@@ -392,8 +392,8 @@ const App = () => {
               
               {/* RESUME DOWNLOAD BUTTON */}
               <a 
-                href="/AmitAiresume.pdf" 
-                download="AmitAiresume.pdf"
+                href="/resume.pdf" 
+                download="resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 bg-transparent text-white border border-slate-600 rounded-full font-medium hover:bg-slate-800 hover:border-slate-500 transition-all flex items-center group"
